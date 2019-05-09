@@ -13,6 +13,7 @@ public class Disk {
     public static void putFruit(String fruit) {
         fruitName = fruit;
         System.out.println("父亲往盘子里边放了一个" + fruit);
+        System.out.println("test github push");
     }
 
     public static String getFruit(String name) {
